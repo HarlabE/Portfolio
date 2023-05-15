@@ -1,0 +1,13 @@
+body{
+    background-color: #ffe194;
+}
+h1, h3, h4 {
+    color: #1B9C85;
+}
+
+P,ul {
+    color: black;
+}
+img{
+    border-radius: 5px;
+}
